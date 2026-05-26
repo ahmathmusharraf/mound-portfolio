@@ -45,7 +45,7 @@ const REELS = [
   {
     title: 'Roll Royce Automotive videography Dubai I Alwan',
     category: 'Automotive videography',
-    videoUrl: 'https://www.youtube.com/embed/M2bLMzTXn78?autoplay=1&mute=1&loop=1&playlist=M2bLMzTXn78&controls=0&modestbranding=1',
+    videoUrl: 'https://youtube.com/shorts/ZFpegK44XGE?si=H_GmI7Ed0tfO84eW',
   },
   {
     title: 'reel 504 CW 22 Dubai',
