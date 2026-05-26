@@ -459,7 +459,7 @@ export default function App() {
                   <div className="absolute inset-0 bg-gradient-to-br from-white to-slate-400 liquid-blob rotate-6 opacity-20 blur-2xl group-hover:opacity-40 transition-opacity" />
                   <div className="absolute inset-0 bg-dark liquid-blob border border-white/10 overflow-hidden glass-edge-glow">
                     <img 
-                      src="https://raw.githubusercontent.com/ahmath-musharraf/mound-portfolio/refs/heads/main/48387.jpeg" 
+                      src="https://raw.githubusercontent.com/ahmathmusharraf/mound-portfolio/refs/heads/main/YAYA.jpeg" 
                       alt="Cinematic Production"
                       referrerPolicy="no-referrer"
                       className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700 scale-110 group-hover:scale-100"
