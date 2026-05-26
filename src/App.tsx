@@ -43,7 +43,7 @@ const REELS = [
     videoUrl: 'https://www.youtube.com/embed/gvflTjGL4OM?autoplay=1&mute=1&loop=1&playlist=gvflTjGL4OM&controls=0&modestbranding=1',
   },
   {
-    title: 'Roll Royce Automotive videography Dubai I Alwan',
+    title: 'G2 Automotive videography Dubai I Alwan',
     category: 'Automotive videography',
     videoUrl: 'https://www.youtube.com/embed/ZFpegK44XGE?autoplay=1&mute=1&loop=1&playlist=ZFpegK44XGE&controls=0&modestbranding=1',
   },
